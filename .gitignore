@@ -11,3 +11,4 @@
 *.pt
 /notebooks
 params_*.json
+.env

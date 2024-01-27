@@ -192,7 +192,7 @@
       "freeze_backbone":false
   },
   "foundation_params":{
-      "backbone_type":"focal",
+      "backbone_type":"dinov2_vitb14",
       "img_size":224,
       "pretrained":true,
       "freeze_backbone":true,
